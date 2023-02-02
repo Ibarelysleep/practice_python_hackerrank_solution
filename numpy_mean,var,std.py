@@ -8,4 +8,4 @@ np_ar = numpy.array(ar)
 print(numpy.mean(np_ar,axis=1))
 print(numpy.var(np_ar,axis=0))
 print(numpy.std(np_ar,axis=None))
-Footer
+
